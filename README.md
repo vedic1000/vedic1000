@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Frontend and C++
 - 💞️ I’m looking to collaborate on Mutual Growth
 - 📫 How to reach me insta: ___vedicx
-- 
 
 <!---
 vedic1000/vedic1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
